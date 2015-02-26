@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1424854677 source:d:\code\c---study\class\main.cpp
+	<iostream>
+	"Sales_item.h"
+
+1344500822 d:\code\c---study\class\sales_item.h
+	<iostream>
+	<string>
+
+1424858301 source:d:\code\c---study\class\1.5.2.cpp
+	<iostream>
+	"Sales_item.h"
+
